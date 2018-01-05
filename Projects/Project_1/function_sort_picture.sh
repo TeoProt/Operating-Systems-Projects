@@ -17,4 +17,4 @@ end
 
 sort_picture "images" "teo"
 
-du -h bellos
+du -h teo
