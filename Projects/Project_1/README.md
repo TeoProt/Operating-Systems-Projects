@@ -1,4 +1,4 @@
-A bash shell script containing a function. This function is called with two command line arguments and finds all 
+A fish shell script containing a function. This function is called with two command line arguments and finds all 
 the "*.jpg" files which are inside the folder path described by the first argument. For each file that is found, 
 we find the modification date by the `eval date` command and `set` a folder variable with the result of the
 `eval date` command using the format Y/M/D. We then check if inside the path given as a second argument already exist
